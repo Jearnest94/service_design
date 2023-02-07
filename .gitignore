@@ -1,0 +1,5 @@
+venv/
+.idea/
+__pycache__/
+.env
+imdb_top_1000.csv
